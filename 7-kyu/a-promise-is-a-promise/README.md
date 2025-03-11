@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/5b61d6ef07a266d40b000097/train/javascript target="_blank">A Promise is a Promise</a></h2><h3>7 kyu</h3><p>Create a resolved javascript Promise that will return 'Hello World!'.</p>
